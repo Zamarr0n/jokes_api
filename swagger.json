@@ -5,10 +5,9 @@
     "description": "Family API",
     "version": "1.0.0"
   },
-  "host": "localhost:3500",
+  "host": "jokes-api-sctp.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
