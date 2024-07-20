@@ -9,6 +9,8 @@ router.get("/", (req,res) => {
 
 router.use("/csjokes", require("./cs_jokes"));
 router.use("/foodjokes", require("./food_jokes"));
+router.use("/halloween", require("./halloween"));
+router.use("/random", require("./random"));
 
 
 
