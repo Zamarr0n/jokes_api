@@ -19,7 +19,11 @@
     "mongodb": "^6.8.0",
     "passport": "^0.7.0",
     "passport-github2": "^0.1.12",
+    "supertest": "^7.0.0",
     "swagger-autogen": "^2.23.7",
     "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^4.3.2"
   }
 }
